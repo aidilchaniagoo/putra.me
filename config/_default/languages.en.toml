@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Home"
+copyright = "© 2025 Aidil Putra"
+
+[params]
+dateFormat = "2 January 2006"
+
+[params.author]
+name = "Aidil Putra"
+image = "img/author.webp"
+headline = "System Administration, Network Administration, DevOps Engineering"
+bio = "System Administration, Network Administration, DevOps Engineering"
+links = [
+  { email = "mailto:aidil@putra.me" },
+  { github = "https://github.com/aidilchaniagoo" },
+  { instagram = "https://instagram.com/aidilchaniagoo" },
+  { linkedin = "https://linkedin.com/in/aidilchaniagoo" },
+]
