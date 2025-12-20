@@ -7,6 +7,13 @@ title: "SSH Tunnel Port Forwarding"
 tags:
   - "networking"
   - "linux"
+coverAlt: >
+  An underground MRT station concourse in Singapore with ticket gates,
+  a directional sign pointing to Resorts World Sentosa, and a pedestrian.
+
+coverCaption: >
+  Singapore MRT station concourse near Sentosa. Photo © Aidil Putra, August 2023.
+
 ---
 
 ## Overview
