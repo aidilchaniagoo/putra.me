@@ -55,9 +55,6 @@ fingerprintAlgorithm = "sha256"
   groupByYear = true
   paginationWidth = 1
 
-[sitemap]
-  excludedKinds = ["taxonomy", "term"]
-
 [taxonomy]
   showTermCount = true
 

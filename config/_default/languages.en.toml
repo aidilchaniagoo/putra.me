@@ -13,7 +13,8 @@ dateFormat = "2 January 2006"
 name = "Aidil Putra"
 image = "img/author.webp"
 headline = "System Administration, Network Administration, DevOps Engineering"
-bio = "System Administration, Network Administration, DevOps Engineering"
+bio = "Working with infrastructure, Linux, cloud platforms, and open-source software."
+
 links = [
   { email = "mailto:aidil@putra.me" },
   { github = "https://github.com/aidilchaniagoo" },

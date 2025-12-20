@@ -13,6 +13,9 @@ summaryLength = 0
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[permalinks]
+  posts = "/posts/:slug/"
+
 [privacy]
   [privacy.vimeo]
     enableDNT = true
@@ -24,3 +27,6 @@ summaryLength = 0
 [services]
   [services.x]
     disableInlineCSS = true
+  [services.googleAnalytics]
+    id = 'G-56FSHBZS5G'
+
