@@ -3,7 +3,7 @@ defaultAppearance = "dark"
 autoSwitchAppearance = true
 
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 enableImageLazyLoading = true
 enableImageWebp = false
 enableQuicklink = true
