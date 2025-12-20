@@ -5,7 +5,9 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 enableImageLazyLoading = true
-enableImageWebp = true
+enableImageWebp = false
+enableQuicklink = true
+
 
 # robots = ""
 fingerprintAlgorithm = "sha256"
@@ -31,25 +33,24 @@ fingerprintAlgorithm = "sha256"
   showDate = true
   showDateUpdated = false
   showAuthor = true
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
-  showTaxonomies = false
-  showWordCount = false
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = true
   showComments = false
-  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
+  sharingLinks = ["facebook", "x-twitter", "linkedin", "email", "threads", "telegram"]
 
 [list]
-  showBreadcrumbs = false
-  showSummary = false
-  showTableOfContents = false
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = true
   showTaxonomies = false
   groupByYear = true
   paginationWidth = 1
